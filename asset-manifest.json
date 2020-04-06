@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson01-helloreact/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/lesson01-helloreact/static/js/main.7909ce0f.chunk.js",
+    "main.js.map": "/lesson01-helloreact/static/js/main.7909ce0f.chunk.js.map",
+    "runtime-main.js": "/lesson01-helloreact/static/js/runtime-main.ae531c84.js",
+    "runtime-main.js.map": "/lesson01-helloreact/static/js/runtime-main.ae531c84.js.map",
+    "static/js/2.ca7895ee.chunk.js": "/lesson01-helloreact/static/js/2.ca7895ee.chunk.js",
+    "static/js/2.ca7895ee.chunk.js.map": "/lesson01-helloreact/static/js/2.ca7895ee.chunk.js.map",
+    "index.html": "/lesson01-helloreact/index.html",
+    "precache-manifest.b1251248274519cc2c91d97e94e90cfe.js": "/lesson01-helloreact/precache-manifest.b1251248274519cc2c91d97e94e90cfe.js",
+    "service-worker.js": "/lesson01-helloreact/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/lesson01-helloreact/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ca7895ee.chunk.js.LICENSE.txt": "/lesson01-helloreact/static/js/2.ca7895ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae531c84.js",
+    "static/js/2.ca7895ee.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7909ce0f.chunk.js"
+  ]
+}
